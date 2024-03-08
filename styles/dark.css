@@ -37,9 +37,8 @@ body {
 }
 
 main h2 {
-  text-decoration:underline overline ;
+  text-decoration: underline overline;
   color: white;
-  
 }
 table,
 th,
@@ -52,8 +51,8 @@ td {
 }
 table {
   margin-bottom: 10px;
-  box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.445), 0 6px 20px 0 rgba(255, 255, 255, 0.445);
-
+  box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.445),
+    0 6px 20px 0 rgba(255, 255, 255, 0.445);
 }
 
 footer div {
@@ -62,7 +61,8 @@ footer div {
   padding: 10px;
   align-items: center;
   color: white;
-}.section{
+}
+.section {
   text-decoration: underline;
 }
 
