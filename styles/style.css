@@ -54,7 +54,9 @@ td {
 table {
   margin-bottom: 10px;
 }
-
+.section{
+    text-decoration: underline;
+  }
 footer div {
   background: rgb(240, 229, 210);
   text-align: center;
